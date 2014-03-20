@@ -12,7 +12,8 @@ class DefaultController extends Controller
 {
     public function indexAction()
     {
-        return $this->render('StoreBundle:Default:index.html.twig', array());
+        return $this->render('StoreBundle:Default:index.html.twig', 
+        	array('name' => 'Vasil Dakov'));
     }
 
     public function createAction() 

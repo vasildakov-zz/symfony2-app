@@ -1,2 +1,10 @@
+# Cache and Logs
 /app/cache/*
 /app/logs/*
+*.log
+
+# Symfony directories
+vendor/*
+
+# Composer
+composer.phar
