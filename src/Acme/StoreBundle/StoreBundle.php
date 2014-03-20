@@ -1,9 +1,9 @@
 <?php
 
-namespace Acme\HelloBundle;
+namespace Acme\StoreBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class HelloBundle extends Bundle
+class StoreBundle extends Bundle
 {
 }
