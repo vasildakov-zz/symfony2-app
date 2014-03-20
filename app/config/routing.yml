@@ -1,0 +1,4 @@
+hello:
+    resource: "@HelloBundle/Resources/config/routing.yml"
+    prefix:   /
+
