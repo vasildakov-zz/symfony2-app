@@ -1,6 +1,11 @@
 store_homepage:
     pattern:  /store
     defaults: { _controller: StoreBundle:Default:index }
+    
 store_create:
     pattern:  /store/create
     defaults: { _controller: StoreBundle:Default:create }
+
+user_index:
+    pattern:  /user
+    defaults: { _controller: StoreBundle:User:index }

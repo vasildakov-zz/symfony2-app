@@ -4,7 +4,7 @@
 *.log
 
 # Symfony directories
-vendor/*
+/vendor/*
 
 # Composer
 composer.phar
