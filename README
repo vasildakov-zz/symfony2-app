@@ -1,3 +1,9 @@
+Installation
+
+npm install -g less
+
+
+
 1. Generating Entities
 $ php app/console doctrine:generate:entities "StoreBundle"
 
